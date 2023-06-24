@@ -65,6 +65,6 @@ public class Main {
         System.out.println("Score: " + percentageScore + "%");
 
         scanner.close();
-        System.out.println("Hello world");
+
     }
 }
